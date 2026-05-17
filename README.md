@@ -30,8 +30,8 @@ Final-year IT student at Saigon University, passionate about building end-to-end
 ---
 
 <h2 align="center">
-Technology Stack
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="35" style="vertical-align: middle;" />
+  Technology Stack
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="35" style="vertical-align: middle;" />
 </h2>
 
 <h4 align="center">Frontend</h4>
