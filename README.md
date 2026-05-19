@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Final-year IT student at Saigon University, passionate about building end-to-end web applications. I focus on clean code, modern frontend frameworks. I use AI tools to support development, and have hands-on experience building AI Agent workflows with N8N.
+Final-year IT student at Saigon University, passionate about building full-stack web applications. I focus on clean code, modern frameworks, and sharp UI/UX. I use AI tools to support development, and have hands-on experience building AI Agent workflows with N8N.
 </p>
 
 ---
@@ -79,25 +79,34 @@ Final-year IT student at Saigon University, passionate about building end-to-end
 
 <h2 align="center">Featured Projects</h2>
 
-### 1. Developing an AI-Powered Virtual Assistant for Order Placement and Product Consultation using Microservice Architecture
+### 1. DocuMeet - Government Meeting Management System
+> Team Project
+
+- Designed all UI screens in Figma for a meeting management mobile app serving a government agency, including meeting scheduling, online meeting rooms, document library
+- Built web admin dashboard using Vite, Reactjs, TypeScript and Tanstack Query, implementing modules for user management, unit management, and device registration
+- Implemented authentication flow with OTP verification for new device registration and JWT refresh token handling when access token expires
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/design/Xmd0Mm9QkJwI4YyNIyU86s/DocuMeet)
+
+---
+
+### 2. E-Commerce Virtual Assistant with Microservice Architecture
 > Scientific Research Project at Saigon University
 
-- Built an e-commerce web interface and AI chatbot using React 19, TypeScript, and TailwindCSS
-- Integrated APIs and handled real-world data using TanStack Query, ensuring real-time synchronization between the AI assistant and service modules
-- Developed backend microservices with Spring Boot and Spring Security, designing RESTful APIs with RBAC authorization
-- Built AI Agent workflows using N8N and LLMs to support product recommendations and order assistance
+- Built e-commerce web interface with AI chatbot using Reactjs, TypeScript, TailwindCSS, integrated APIs with SWR to ensure real-time data sync between AI assistant and service modules
+- Developed backend microservices with Spring Boot & Spring Security, RESTful APIs with pagination, filtering and RBAC authorization
+- Designed AI Agent workflows using N8N & LLMs to support product recommendations and order assistance
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/NCKH)
 
 ---
 
-### 2. Fashion E-Commerce Website
+### 3. Fashion E-Commerce Website
 > Personal Project
 
-- Built a fashion e-commerce web application using Next.js, TypeScript, and TailwindCSS, supporting multi-variant products with different sizes and colors
-- Developed the backend using Next.js API Routes integrated with MongoDB
-- Implemented secure user authentication with NextAuth.js
-- Integrated APIs and managed data fetching using SWR, ensuring efficient caching and data synchronization
+- Built fashion e-commerce web app using Next.js, TypeScript, TailwindCSS, with multi-variant products with different sizes and colors
+- Developed backend with Next.js API Routes & MongoDB, user authentication with NextAuth.js, data fetching with SWR
+- Set up CI/CD pipeline with GitHub Actions and deployed to Vercel
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/fashion-ecommerce)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://fashion-aura-ten.vercel.app)
