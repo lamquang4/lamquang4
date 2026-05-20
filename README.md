@@ -80,33 +80,39 @@ Final-year IT student at Saigon University, passionate about building full-stack
 <h2 align="center">Featured Projects</h2>
 
 ### 1. DocuMeet - Government Meeting Management System
-> Team Project
+> UI/UX Designer & Frontend Developer - Team Project
 
-- Designed all UI screens in Figma for a meeting management mobile app serving a government agency, including meeting scheduling, online meeting rooms, document library
-- Built web admin dashboard using Vite, Reactjs, TypeScript and Tanstack Query, implementing modules for user management, unit management, and device registration
-- Implemented authentication flow with OTP verification for new device registration and JWT refresh token handling when access token expires
+- Designed all UI screens in Figma for a meeting management mobile app serving a government agency, including meeting scheduling, online meeting rooms, and document library
+- Built a web admin dashboard implementing modules for user management, unit management, and device registration
+- Implemented authentication flow with OTP verification for new device registration and JWT refresh token handling when the access token expires
+
+**Technologies:** Figma, Reactjs, Typescript, Tanstack Query
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/design/Xmd0Mm9QkJwI4YyNIyU86s/DocuMeet)
 
 ---
 
 ### 2. E-Commerce Virtual Assistant with Microservice Architecture
-> Scientific Research Project at Saigon University
+> Fullstack developer - Scientific Research Project at Saigon University
 
-- Built e-commerce web interface with AI chatbot using Reactjs, TypeScript, TailwindCSS, integrated APIs with SWR to ensure real-time data sync between AI assistant and service modules
-- Developed backend microservices with Spring Boot & Spring Security, RESTful APIs with pagination, filtering and RBAC authorization
-- Designed AI Agent workflows using N8N & LLMs to support product recommendations and order assistance
+- Built an AI-powered virtual assistant acting as a smart sales agent, providing product consultation, personalized recommendations, and order assistance, delivered through an e-commerce web interface and integrated chatbox
+- Developed backend using Microservice Architecture with Spring Boot & Spring Security to evaluate scalability and service independence in an AI-integrated system
+- Designed AI Agent workflows using N8N & LLMs to enable the virtual assistant to perform its core functions
+
+**Technologies:** Reactjs, Typescript, SWR, Spring Boot, Spring Security, N8N, LLMs, MongoĐB, MySQL, Redis
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/NCKH)
 
 ---
 
 ### 3. Fashion E-Commerce Website
-> Personal Project
+> Fullstack developer - Personal Project
 
-- Built fashion e-commerce web app using Next.js, TypeScript, TailwindCSS, with multi-variant products with different sizes and colors
-- Developed backend with Next.js API Routes & MongoDB, user authentication with NextAuth.js, data fetching with SWR
-- Set up CI/CD pipeline with GitHub Actions and deployed to Vercel
+- Built a fashion e-commerce web app with multi-variant product support (sizes & colors) to explore Next.js features and SEO optimization techniques
+- Implemented fullstack architecture using Next.js API Routes as backend, integrated MongoDB for data persistence, and NextAuth.js for user authentication and session management
+- Automated build, test, and deployment workflows via CI/CD pipeline with GitHub Actions and Vercel
+
+**Technologies:** Nextjs, Typescript, TailwindCSS, SWR, NextAuth.js, MongoDB
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/fashion-ecommerce)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://fashion-aura-ten.vercel.app)
