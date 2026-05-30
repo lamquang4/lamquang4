@@ -99,7 +99,7 @@ Final-year IT student at Saigon University, passionate about building full-stack
 - Developed backend using Microservice Architecture with Spring Boot & Spring Security to evaluate scalability and service independence in an AI-integrated system
 - Designed AI Agent workflows using N8N & LLMs to enable the virtual assistant to perform its core functions
 
-**Technologies:** Reactjs, Typescript, SWR, Spring Boot, Spring Security, N8N, LLMs, MongoĐB, MySQL, Redis
+**Technologies:** Reactjs, Typescript, Redux, SWR, Spring Boot, Spring Security, N8N, LLMs, MongoĐB, MySQL, Redis
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/NCKH)
 
