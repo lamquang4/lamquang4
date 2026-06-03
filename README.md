@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-Final-year IT student at Saigon University, passionate about building full-stack web applications. I focus on clean code, modern frameworks, and sharp UI/UX. Leverage AI tools (ChatGPT, Claude) to assist with software development, problem-solving, and learning new technologies.
+Final-year IT student at Saigon University, passionate about building full-stack web applications. I focus on clean code, modern frameworks, and sharp UI/UX. Leverage AI tools to assist with software development, problem-solving, and learning new technologies.
 </p>
 
 ---
