@@ -82,11 +82,11 @@ Final-year IT student at Saigon University, passionate about building full-stack
 ### 1. DocuMeet - Government Meeting Management System
 > UI/UX Designer & Frontend Developer - Team Project
 
-- Designed all UI screens in Figma for a meeting management mobile app serving a government agency, including meeting scheduling, online meeting rooms, and document library
-- Built a web admin dashboard implementing modules for user management, unit management, and device registration
-- Implemented authentication flow with OTP verification for new device registration and JWT refresh token handling when the access token expires
+- Designed end-to-end UI/UX in Figma for a government-facing meeting management app, including meeting scheduling, online meeting rooms, and document library
+- Developed a responsive web admin dashboard with modules for user management, organizational unit management and device registration
+- Implemented a secure authentication flow including OTP-based device verification and silent JWT refresh token rotation to maintain session continuity
 
-**Technologies:** Figma, Reactjs, Typescript, Tanstack Query
+**Technologies:** Figma, Reactjs, Typescript, TailwindCSS, Tanstack Query
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/design/Xmd0Mm9QkJwI4YyNIyU86s/DocuMeet)
 
@@ -95,11 +95,11 @@ Final-year IT student at Saigon University, passionate about building full-stack
 ### 2. E-Commerce Virtual Assistant with Microservice Architecture
 > Fullstack developer - Scientific Research Project at Saigon University
 
-- Built an AI-powered virtual assistant acting as a smart sales agent, providing product consultation, personalized recommendations, and order assistance, delivered through an e-commerce web interface and integrated chatbox
-- Developed backend using Microservice Architecture with Spring Boot & Spring Security to evaluate scalability and service independence in an AI-integrated system
-- Designed AI Agent workflows using N8N & LLMs to enable the virtual assistant to perform its core functions
+- Developed the frontend for an AI-powered e-commerce platform, featuring a product browsing interface and a virtual assistant chatbox for real-time consultation and personalized recommendations
+- Developed the backend using Microservice Architecture with Spring Boot & Spring Security, implementing JWT authentication and RBAC for 2 user roles to ensure secure and scalable service independence
+- Configured AI Agent workflows using N8N and LLMs to power the virtual assistant's core functionalities
 
-**Technologies:** Reactjs, Typescript, Redux, SWR, Spring Boot, Spring Security, N8N, LLMs, MongoĐB, MySQL, Redis
+**Technologies:** Reactjs, Typescript, SWR, Spring Boot, Spring Security, N8N, LLMs, MongoĐB, MySQL, Redis
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/NCKH)
 
