@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Lâm Diệu Quang 👋</h1>
 
 <p align="center">
-  <strong>Fullstack Developer</strong>
+  <strong>Frontend Developer</strong>
 </p>
 
 <p align="center">
-Final-year IT student at Saigon University, passionate about building full-stack web applications. I focus on clean code, modern frameworks, and sharp UI/UX. I use AI tools to support development, and have hands-on experience building AI Agent workflows with N8N.
+Final-year IT student at Saigon University, passionate about building full-stack web applications. I focus on clean code, modern frameworks, and sharp UI/UX. Leverage AI tools (ChatGPT, Claude) to assist with software development, problem-solving, and learning new technologies.
 </p>
 
 ---
