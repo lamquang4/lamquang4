@@ -15,7 +15,7 @@ Final-year IT student at Saigon University, passionate about building full-stack
   <a href="mailto:lamdieuquang0105@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/quang-l%C3%A2m-97465b40b/">
+  <a href="https://www.linkedin.com/in/quang-lam-97465b40b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/quang.lam.901108">
