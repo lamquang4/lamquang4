@@ -31,7 +31,7 @@ Final-year IT student at Saigon University, passionate about building full-stack
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,vite,react,nextjs,redux,tailwind,nodejs,spring,postgres,mysql,mongodb,redis,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,vite,react,nextjs,redux,tailwind,nodejs,express,spring,postgres,mysql,mongodb,redis,docker,figma" />
 </p>
 
 ---
