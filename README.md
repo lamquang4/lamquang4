@@ -47,7 +47,8 @@ Final-year IT student at Saigon University, passionate about building full-stack
 
 **Technologies:** Figma, Vite, React.js, Typescript, TailwindCSS, Tanstack Query
 
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/design/Xmd0Mm9QkJwI4YyNIyU86s/DocuMeet)
+[![Figma](https://img.shields.io/badge/Design%20UI-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/design/Xmd0Mm9QkJwI4YyNIyU86s/DocuMeet)
+[![Figma](https://img.shields.io/badge/Prototype-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/proto/Xmd0Mm9QkJwI4YyNIyU86s/DocuMeet?node-id=4322-4449&p=f&t=q7FEjgNCtUK0UXWE-0&scaling=scale-down&content-scaling=fixed&page-id=101%3A306&starting-point-node-id=4850%3A8637&show-proto-sidebar=1)
 
 ---
 
