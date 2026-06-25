@@ -31,7 +31,7 @@ Final-year IT student at Saigon University, passionate about building full-stack
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,react,nextjs,redux,tailwind,nodejs,spring,postgres,mysql,mongodb,redis,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,vite,react,nextjs,redux,tailwind,nodejs,spring,postgres,mysql,mongodb,redis,docker,figma" />
 </p>
 
 ---
@@ -45,7 +45,7 @@ Final-year IT student at Saigon University, passionate about building full-stack
 - Developed a responsive web admin dashboard with modules for user management, organizational unit management and device registration
 - Implemented a secure authentication flow including OTP-based device verification and silent JWT refresh token rotation to maintain session continuity
 
-**Technologies:** Figma, Reactjs, Typescript, TailwindCSS, Tanstack Query
+**Technologies:** Figma, Vite, React.js, Typescript, TailwindCSS, Tanstack Query
 
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/design/Xmd0Mm9QkJwI4YyNIyU86s/DocuMeet)
 
@@ -58,7 +58,7 @@ Final-year IT student at Saigon University, passionate about building full-stack
 - Developed the backend using Microservice Architecture with Spring Boot & Spring Security, implementing JWT authentication and RBAC for 2 user roles to ensure secure and scalable service independence
 - Configured AI Agent workflows using N8N and LLMs to power the virtual assistant's core functionalities
 
-**Technologies:** Reactjs, Typescript, SWR, Spring Boot, Spring Security, N8N, MongoĐB, MySQL, Redis
+**Technologies:** Vite, React.js, Typescript, SWR, Spring Boot, Spring Security, N8N, MongoĐB, MySQL, Redis
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/NCKH)
 
@@ -71,7 +71,7 @@ Final-year IT student at Saigon University, passionate about building full-stack
 - Implemented fullstack architecture using Next.js API Routes as backend, integrated MongoDB for data persistence, and NextAuth.js for user authentication and session management
 - Automated build, test, and deployment workflows via CI/CD pipeline with GitHub Actions and Vercel
 
-**Technologies:** Nextjs, Typescript, TailwindCSS, SWR, NextAuth.js, MongoDB
+**Technologies:** Next.js, Typescript, TailwindCSS, SWR, NextAuth.js, MongoDB
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/fashion-ecommerce)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://fashion-aura-ten.vercel.app)
