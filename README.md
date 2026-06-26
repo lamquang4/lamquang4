@@ -68,9 +68,9 @@ Final-year IT student at Saigon University, passionate about building full-stack
 ### 3. Fashion E-Commerce Website
 > Fullstack developer - Personal Project
 
-- Built a fashion e-commerce web app with multi-variant product support (sizes & colors), focusing on performance optimization and SEO with Next.js App Router
+- Built a full-stack fashion e-commerce web app with separate admin and client interfaces
+- Designed a nested variant system in MongoDB where each product supports multiple colors, each color contains multiple sizes, with independent stock tracking per size
 - Implemented fullstack architecture using Next.js API Routes as backend, integrated MongoDB for data persistence, and NextAuth.js for user authentication and session management
-- Automated build, test, and deployment workflows via CI/CD pipeline with GitHub Actions and Vercel
 
 **Technologies:** Next.js, Typescript, TailwindCSS, SWR, NextAuth.js, MongoDB
 
