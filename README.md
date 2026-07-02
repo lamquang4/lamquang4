@@ -42,7 +42,7 @@ Final-year IT student at Saigon University, focused on frontend development with
 > UI/UX Designer & Frontend Developer - Team Project
 
 - Designed end-to-end UI/UX in Figma for a government-facing meeting management app, including meeting scheduling, online meeting rooms, and document library
-- Developed a responsive web admin dashboard with modules for user management, organizational unit management and device registration
+- Built a responsive web admin dashboard with modules for user management, organizational unit management, and device registration
 - Implemented a secure authentication flow including OTP-based device verification and silent JWT refresh token rotation to maintain session continuity
 
 **Technologies:** Figma, Vite, React.js, Typescript, TailwindCSS, Tanstack Query
@@ -55,11 +55,11 @@ Final-year IT student at Saigon University, focused on frontend development with
 ### 2. E-Commerce Virtual Assistant with Microservice Architecture
 > Fullstack developer - Scientific Research Project at Saigon University
 
-- Developed the frontend for an AI-powered e-commerce platform, featuring a product browsing interface and a virtual assistant chatbox for real-time consultation and personalized recommendations
-- Developed the backend using Microservice Architecture with Spring Boot & Spring Security, implementing JWT authentication and RBAC for 2 user roles to ensure secure and scalable service independence
+- Built the frontend for an AI-powered e-commerce platform, featuring a product browsing interface and a virtual assistant chatbox for real-time consultation and personalized recommendations
+- Architected the backend using a microservice approach with Spring Boot & Spring Security, implementing JWT authentication and RBAC for 2 user roles to ensure secure and scalable service independence
 - Configured AI Agent workflows using N8N and LLMs to power the virtual assistant's core functionalities
 
-**Technologies:** Vite, React.js, Typescript, SWR, Spring Boot, Spring Security, N8N, MongoĐB, MySQL, Redis
+**Technologies:** Vite, React.js, Typescript, SWR, Spring Boot, Spring Security, N8N, MongoDB, MySQL, Redis
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/NCKH)
 
@@ -70,7 +70,7 @@ Final-year IT student at Saigon University, focused on frontend development with
 
 - Built a full-stack fashion e-commerce web app with separate admin and client interfaces
 - Designed a nested variant system in MongoDB where each product supports multiple colors, each color contains multiple sizes, with independent stock tracking per size
-- Implemented fullstack architecture using Next.js API Routes as backend, integrated MongoDB for data persistence, and NextAuth.js for user authentication and session management
+- Architected a fullstack solution using Next.js API Routes as backend, integrated MongoDB for data persistence, and NextAuth.js for user authentication and session management
 
 **Technologies:** Next.js, Typescript, TailwindCSS, SWR, NextAuth.js, MongoDB
 
