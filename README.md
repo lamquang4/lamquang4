@@ -38,11 +38,11 @@ Final-year IT student at Saigon University, focused on frontend development with
 
 <h2 align="center">Featured Projects</h2>
 
-### 1. DocuMeet - Government Meeting Management System
+### 1. DocuMeet - Meeting Management System
 > UI/UX Designer & Frontend Developer - Team Project
 
-- Designed end-to-end UI/UX in Figma for a government-facing meeting management app, including meeting scheduling, online meeting rooms, and document library
-- Built a responsive web admin dashboard with modules for user management, organizational unit management, and device registration
+- Designed end-to-end UI/UX in Figma for an internal meeting management app, including meeting scheduling, online meeting rooms, and document library 
+- Built a responsive web admin dashboard with modules for user management, organizational unit management, and device registration 
 - Implemented a secure authentication flow including OTP-based device verification and silent JWT refresh token rotation to maintain session continuity
 
 **Technologies:** Figma, Vite, React.js, Typescript, TailwindCSS, Tanstack Query
