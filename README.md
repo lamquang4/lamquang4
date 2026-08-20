@@ -59,7 +59,7 @@ Final-year IT student at Saigon University, focused on frontend development with
 - Architected the backend using a microservice approach with Spring Boot & Spring Security, implementing JWT authentication and RBAC for 2 user roles to ensure secure and scalable service independence
 - Configured AI Agent workflows using N8N and LLMs to power the virtual assistant's core functionalities
 
-**Technologies:** Vite, React.js, Typescript, Redux Toolkit, SWR, Spring Boot, Spring Security, N8N, MongoDB, MySQL, Redis
+**Technologies:** Vite, React.js, Typescript, Redux Toolkit, SWR, Spring Boot, Spring Security, N8N, MongoDB, MySQL, Redis, Cloudinary
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/NCKH)
 
@@ -72,7 +72,7 @@ Final-year IT student at Saigon University, focused on frontend development with
 - Designed a nested variant system in MongoDB where each product supports multiple colors, each color contains multiple sizes, with independent stock tracking per size
 - Architected a fullstack solution using Next.js API Routes as backend, integrated MongoDB for data persistence, and NextAuth.js for user authentication and session management
 
-**Technologies:** Next.js, Typescript, TailwindCSS, SWR, NextAuth.js, MongoDB
+**Technologies:** Next.js, Typescript, TailwindCSS, SWR, NextAuth.js, MongoDB, Cloudinary
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lamquang4/fashion-ecommerce)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://fashion-aura-ten.vercel.app)
