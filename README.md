@@ -41,9 +41,9 @@ Final-year IT student at Saigon University, focused on frontend development with
 ### 1. DocuMeet - Meeting Management System
 > UI/UX Designer & Frontend Developer - Team Project
 
-- Designed end-to-end UI/UX in Figma for an internal meeting management app, including meeting scheduling, online meeting rooms, and document library 
-- Built a responsive web admin dashboard with modules for user management, organizational unit management, and device registration 
-- Implemented a secure authentication flow including OTP-based device verification and silent JWT refresh token rotation to maintain session continuity
+- Designed end-to-end UI/UX in Figma for an internal meeting management app, including meeting scheduling, online meeting rooms, and document library
+- Developed a responsive admin dashboard for managing user, organizational unit and device registration
+- Implemented frontend authentication and session management with access/refresh tokens, OTP-based device verification and automatic access token refresh to maintain user sessions
 
 **Technologies:** Figma, Vite, React.js, Typescript, TailwindCSS, Tanstack Query
 
@@ -55,9 +55,9 @@ Final-year IT student at Saigon University, focused on frontend development with
 ### 2. E-Commerce Virtual Assistant with Microservice Architecture
 > Fullstack developer - Scientific Research Project at Saigon University
 
-- Built the frontend for an AI-powered e-commerce platform, featuring a product browsing interface and a virtual assistant chatbox for real-time consultation and personalized recommendations
-- Architected the backend using a microservice approach with Spring Boot & Spring Security, implementing JWT authentication and RBAC for 2 user roles to ensure secure and scalable service independence
-- Configured AI Agent workflows using N8N and LLMs to power the virtual assistant's core functionalities
+- Built an e-commerce platform for electronic products, featuring product browsing, shopping cart, order management, and an admin dashboard for store management
+- Integrated an AI-powered virtual assistant using Gemini 2.5 Flash on N8N, enabling product consultation and personalized recommendations through API-based tools
+- Developed a 12-service microservice backend with Spring Boot, implementing JWT authentication, RBAC, service discovery with Eureka, and inter-service communication via REST APIs using OpenFeign
 
 **Technologies:** Vite, React.js, Typescript, Redux Toolkit, SWR, Spring Boot, Spring Security, N8N, MongoDB, MySQL, Redis, Cloudinary
 
@@ -68,9 +68,9 @@ Final-year IT student at Saigon University, focused on frontend development with
 ### 3. Fashion E-Commerce Website
 > Fullstack developer - Personal Project
 
-- Built a full-stack fashion e-commerce web app with separate admin and client interfaces
-- Designed a nested variant system in MongoDB where each product supports multiple colors, each color contains multiple sizes, with independent stock tracking per size
-- Architected a fullstack solution using Next.js API Routes as backend, integrated MongoDB for data persistence, and NextAuth.js for user authentication and session management
+- Built a fashion e-commerce web application with customer and admin interfaces, supporting product browsing, variant selection, cart, checkout, and order management
+- Implemented a flexible product variant system supporting multiple colors and sizes with independent stock tracking for each variant
+- Implemented user authentication and backend APIs using NextAuth.js and Next.js API Routes, with MongoDB for data persistence
 
 **Technologies:** Next.js, Typescript, TailwindCSS, SWR, NextAuth.js, MongoDB, Cloudinary
 
