@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lâm Diệu Quang 👋</h1>
 
 <p align="center">
-Final-year IT student at Saigon University, focused on frontend development with a full-stack background. Passionate about clean, maintainable, and performance-conscious code, modern frameworks, and intuitive UI/UX. Leverage AI tools to support development, problem-solving, and learning.
+I focus on frontend development with a full-stack background. Passionate about clean, maintainable, and performance-conscious code, modern frameworks, and intuitive UI/UX. Leverage AI tools to support development, problem-solving, and learning.
 </p>
 
 ---
