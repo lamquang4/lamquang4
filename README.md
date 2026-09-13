@@ -33,5 +33,3 @@ Final-year IT student at Saigon University, focused on frontend development with
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,java,vite,react,nextjs,redux,tailwind,nodejs,express,spring,postgres,mysql,mongodb,redis,docker,figma" />
 </p>
-
----
