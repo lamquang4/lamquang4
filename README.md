@@ -31,5 +31,5 @@ I focus on frontend development with a full-stack background. Passionate about c
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,vite,react,nextjs,redux,tailwind,nodejs,express,spring,postgres,mysql,mongodb,redis,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,vite,react,nextjs,redux,tailwind,nodejs,express,spring,postgres,mysql,mongodb,docker,figma" />
 </p>
